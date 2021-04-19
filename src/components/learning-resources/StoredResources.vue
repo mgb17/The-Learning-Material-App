@@ -13,7 +13,6 @@ export default {
         LearningResource
     },
     inject: ['resources']
-        
     }
 </script>
 
